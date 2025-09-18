@@ -1,7 +1,7 @@
 <!-- NEON Profile Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Neon&size=40&duration=3000&pause=1000&color=00FFD9&center=true&vCenter=true&width=700&lines=👋+Hi,+I’m+SAMEER+KHAN" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SAMEERKHAN1051/SAMEERKHAN1051/main/neon-banner.png" alt="Hi, I'm SAMEER KHAN" width="700"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SAMEERKHAN1051&label=Profile%20Views&color=00FFD9&style=flat" alt="SAMEERKHAN1051" />
