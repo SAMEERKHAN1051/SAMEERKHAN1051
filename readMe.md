@@ -4,20 +4,20 @@ Welcome to my GitHub profile! I’m passionate about building impactful technolo
 
 ## 🚀 Featured Projects
 
-- [techwiz-backend](https://github.com/SAMEERKHAN1051/techwiz-backend)  
-  Backend for TechWiz, built for scalable applications with a modern stack.
+<a href="https://github.com/SAMEERKHAN1051/techwiz-backend"><img src="https://img.shields.io/badge/TechWiz%20Backend-blueviolet?style=for-the-badge&logo=github" /></a>
+&emsp; Backend for TechWiz, built for scalable applications with a modern stack.
 
-- [northonwheelsphase_2](https://github.com/SAMEERKHAN1051/northonwheelsphase_2)  
-  Innovative platform for transportation solutions.
+<a href="https://github.com/SAMEERKHAN1051/northonwheelsphase_2"><img src="https://img.shields.io/badge/North%20On%20Wheels-009688?style=for-the-badge&logo=github" /></a>
+&emsp; Innovative platform for transportation solutions.
 
-- [NextBeing.Ai](https://github.com/SAMEERKHAN1051/NextBeing.Ai)  
-  AI-powered project focused on next-gen intelligence.
+<a href="https://github.com/SAMEERKHAN1051/NextBeing.Ai"><img src="https://img.shields.io/badge/NextBeing.AI-00b4d8?style=for-the-badge&logo=github" /></a>
+&emsp; AI-powered project focused on next-gen intelligence.
 
-- [pawpetcare](https://github.com/Syeda-Nabihaa/pawpetcare)  
-  Contributed to a platform for pet care services.
+<a href="https://github.com/Syeda-Nabihaa/pawpetcare"><img src="https://img.shields.io/badge/Paw%20Pet%20Care-43aa8b?style=for-the-badge&logo=github" /></a>
+&emsp; Contributed to a platform for pet care services.
 
-- [TechWiz](https://github.com/Syeda-Nabihaa/TechWiz)  
-  Collaborative project for tech enthusiasts.
+<a href="https://github.com/Syeda-Nabihaa/TechWiz"><img src="https://img.shields.io/badge/TechWiz-ca2c92?style=for-the-badge&logo=github" /></a>
+&emsp; Collaborative project for tech enthusiasts.
 
 ## 🛠️ Skills & Tools
 
