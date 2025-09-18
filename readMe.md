@@ -19,13 +19,18 @@ Welcome to my GitHub profile! I’m passionate about building impactful technolo
 - [TechWiz](https://github.com/Syeda-Nabihaa/TechWiz)  
   Collaborative project for tech enthusiasts.
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-- Backend Development (Node.js, Express, MongoDB)
-- Frontend (React, JavaScript, HTML/CSS)
-- Cloud & DevOps (AWS, Docker)
-- AI & Machine Learning
-- API Design & Integration
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ## 🌱 Currently Learning
 
