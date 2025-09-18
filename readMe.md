@@ -75,7 +75,7 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/sameer_khan._.7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:sameercode1234@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://sameer-portfolio-glit.vercel.app](https://sameer-portfolio-gilt.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4E69C8?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://sameer-portfolio-gilt.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4E69C8?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
